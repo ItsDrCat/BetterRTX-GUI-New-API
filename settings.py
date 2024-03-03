@@ -51,14 +51,14 @@ INVALID_FILE_PATH_MESSAGE = "❌ Invalid File Path (Please Select Valid Path)"
 #VERSION DETAILS
 VERSION = " v0.0.2"
 VERSION_DETAILS = "BetterRTX Installer v" + VERSION
-CREATED_BY = "Created by: SomnathChW"
+CREATED_BY = "Created by: SomnathChW (Updated by ItsDrCat)"
 EXPECTED_RELEASE_DATE = "22-07-2023"
 
 
 #URLS
-SERVER_URL = "https://average-visor-eel.cyclic.app" 
-VANILLA_STUB_URL = "https://average-visor-eel.cyclic.app/uninstall/rtxstub"
-VANILLA_TONEMAP_URL = "https://average-visor-eel.cyclic.app/uninstall/rtxpostfx"
+SERVER_URL = "https://bedrock.graphics/api/" 
+VANILLA_STUB_URL = "https://bedrock.graphics/api/uninstall/rtxstub"
+VANILLA_TONEMAP_URL = "https://bedrock.graphics/api/uninstall/rtxpostfx"
 # BANNER_IMAGE_URL = "https://raw.githubusercontent.com/SomnathChW/BetterRTX-Installer-GUI/master/assets/BetterRTX.png"
 BANNER_IMAGE_URL = "https://drive.google.com/uc?export=download&id=14bQworulKq7NKH4CT2OcNLoK-aRLogdm"
 COPYRIGHT_URL = "https://discord.gg/2YJYqY6"
